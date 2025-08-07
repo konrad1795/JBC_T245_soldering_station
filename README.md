@@ -1,5 +1,5 @@
 # JBC_T245_soldering_station
-This repository shows a controller for the JBC T245 handle. In contrast to other designs, this design is powered by DC and has an earthed tip nonetheless.
+This repository shows a controller for the JBC T245 handle. In contrast to other designs, this design is powered by DC and has an earthed tip nonetheless. The whole controller is powered by a Raspberry Pi Pico 2.
 
 # Whats the motivation behind this project?
 I was tired of my ERSA RDS80 soldering station - the standard hollow tips on a heating element just don't provide the thermal performance needed for PCBs with wide groudplanes or big connectors. The cheap cartridge-based stations with the T12 tips are also an alternative, but the cheap tips did not really impress me regarding durability. Thats why I decited to build a station with the phenomenal and durable JBC tips and the high quality handpiece that has similar performance to the original.
